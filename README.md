@@ -1,2 +1,3 @@
 # firstRepository
-this my firt repository under seniour Ciobanu. AMEN
+this my firt repository under 
+Sénior Ciobanu. AMEN
